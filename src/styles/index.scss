@@ -1,0 +1,12 @@
+$theme-colors: (
+  "primary":rgb(79, 25, 122),
+  'success':green,
+  "danger":deeppink,
+  'warning':#ffd000
+);
+@import "~bootstrap/scss/bootstrap";
+
+
+body{
+  padding-top:5rem;
+}
